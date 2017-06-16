@@ -1,27 +1,31 @@
-## ÁÖÀÇ»çÇ×
-* ¹é¾÷¼­¹öÀÇ hdd¿ë·®Àº ¿î¿µÁßÀÎ ¼­¹öÀÇ ¿ë·®ÇÏ°í °°°Å³ª ´õ Ä¿¾ß¸¸ ÇÕ´Ï´Ù.
-* º» ÇÁ·Î±×·¥À» »ç¿ëÇÏ´Â°Í¿¡ ÀÖ¾î¼­ µ¥ÀÌÅÍÀÇ ¸Á½Ç ¶Ç´Â ¹ß»ýÇÏ´Â ¹®Á¦¿¡ ´ëÇØ¼­ °³¹ßÀÚ´Â ÀÏÀý Ã¥ÀÓÁöÁö ¾ÊÀ¸¸ç ¸ðµçÃ¥ÀÓÀº »ç¿ëÇÑ º»ÀÎ¿¡°Ô ÀÖ½À´Ï´Ù.
-* ÀÏºÎ È£½ºÆÃ ¾÷Ã¼Áß FTP·Î ¾÷·Îµå¹× ´Ù¿î·Îµå½Ã Æ®·¡ÇÈ¿¡ Àû¿ëÇÏ´Â ¾÷Ã¼°¡ ÀÖÀ¸´Ï »ç¿ëÇÏ±âÀü È£½ºÆÃ¾÷Ã¼¿¡ FTP¾÷·Îµå¹× ´Ù¿î·Îµå½Ã Æ®·¡ÇÈ ¼Ò¸ð µÇ³ª ¹®ÀÇÇÏ½Ã±â ¹Ù¶ø´Ï´Ù.
+## ì£¼ì˜ì‚¬í•­
+* ë°±ì—…ì„œë²„ì˜ hddìš©ëŸ‰ì€ ìš´ì˜ì¤‘ì¸ ì„œë²„ì˜ ìš©ëŸ‰í•˜ê³  ê°™ê±°ë‚˜ ë” ì»¤ì•¼ë§Œ í•©ë‹ˆë‹¤.
+* ë³¸ í”„ë¡œê·¸ëž¨ì„ ì‚¬ìš©í•˜ëŠ”ê²ƒì— ìžˆì–´ì„œ ë°ì´í„°ì˜ ë§ì‹¤ ë˜ëŠ” ë°œìƒí•˜ëŠ” ë¬¸ì œì— ëŒ€í•´ì„œ ê°œë°œìžëŠ” ì¼ì ˆ ì±…ìž„ì§€ì§€ ì•Šìœ¼ë©° ëª¨ë“ ì±…ìž„ì€ ì‚¬ìš©í•œ ë³¸ì¸ì—ê²Œ ìžˆìŠµë‹ˆë‹¤.
+* ì¼ë¶€ í˜¸ìŠ¤íŒ… ì—…ì²´ì¤‘ FTPë¡œ ì—…ë¡œë“œë° ë‹¤ìš´ë¡œë“œì‹œ íŠ¸ëž˜í”½ì— ì ìš©í•˜ëŠ” ì—…ì²´ê°€ ìžˆìœ¼ë‹ˆ ì‚¬ìš©í•˜ê¸°ì „ í˜¸ìŠ¤íŒ…ì—…ì²´ì— FTPì—…ë¡œë“œë° ë‹¤ìš´ë¡œë“œì‹œ íŠ¸ëž˜í”½ ì†Œëª¨ ë˜ë‚˜ ë¬¸ì˜í•˜ì‹œê¸° ë°”ëžë‹ˆë‹¤.
 
-## Æ¯Â¡
-* º» ¼­¹ö ¿ø°Ý ¹é¾÷Àº ½ÇÁ¦ ¿î¿µÁßÀÎ À¥¼­¹öÀÇ ÆÄÀÏ°ú db¸¦ zip°ú sqlÇü½ÄÀ¸·Î ¾ÐÃàÇØ¼­ ¿ÜºÎ ¼­¹ö·Î ¹é¾÷À» ÇØÁÝ´Ï´Ù.
-* ºê¶ó¿ìÀú·Î Á¢¼Ó ÇÑ¹ø¸¸ ÇÏ¸é ¹é¾÷À» ÁøÇàÇÏ´Â°ÍÀÌ Æ¯Â¡ÀÔ´Ï´Ù,¸¸ÀÏ Å©·ÐÀâÀ» »ç¿ëÇÒ °æ¿ì ÀÚµ¿À¸·Î ¹é¾÷À» ÁøÇàÇØ ÁÝ´Ï´Ù.
-* .htaccess·Î ¿ÜºÎÀÎÀ¸·Î ºÎÅÍ ¹é¾÷Áß ¶Ç´Â ¹é¾÷¿Ï·áµÈ ÆÄÀÏÀÇ Á¢±ÙÀ» Â÷´ÜÇÕ´Ï´Ù.
-* º» ¼Ò½ºÄÚµå´Â php·Î ¸¸µé¾î Á³À¸¸ç php°¡ µ¹¾Æ°¡´Â ¼­¹ö¿¡¼­´Â °ÅÀÇ ´ëºÎºÐ ÀÛµ¿ÇÏ´Â°ÍÀÌ Æ¯Â¡ÀÔ´Ï´Ù.(À¥È£½ºÆÃÀÌµç ¼­¹öÈ£½ºÆÃ ÀÌµç °ü°è¾øÀÌ ÀÛµ¿ÇÕ´Ï´Ù.)
-* ¿ø°ÝÁö ÆÄÀÏ ¿­±â ¼³Á¤ ¹× ½Ã°£Á¦ÇÑ ÇÏ°í ÀüÇô °ü°è¾øÀÌ ÀÛµ¿ÇÕ´Ï´Ù.
+## íŠ¹ì§•
+* ë³¸ ì„œë²„ ì›ê²© ë°±ì—…ì€ ì‹¤ì œ ìš´ì˜ì¤‘ì¸ ì›¹ì„œë²„ì˜ íŒŒì¼ê³¼ dbë¥¼ zipê³¼ sqlí˜•ì‹ìœ¼ë¡œ ì••ì¶•í•´ì„œ ì™¸ë¶€ ì„œë²„ë¡œ ë°±ì—…ì„ í•´ì¤ë‹ˆë‹¤.
+* ë¸Œë¼ìš°ì €ë¡œ ì ‘ì† í•œë²ˆë§Œ í•˜ë©´ ë°±ì—…ì„ ì§„í–‰í•˜ëŠ”ê²ƒì´ íŠ¹ì§•ìž…ë‹ˆë‹¤,ë§Œì¼ í¬ë¡ ìž¡ì„ ì‚¬ìš©í•  ê²½ìš° ìžë™ìœ¼ë¡œ ë°±ì—…ì„ ì§„í–‰í•´ ì¤ë‹ˆë‹¤.
+* .htaccessë¡œ ì™¸ë¶€ì¸ìœ¼ë¡œ ë¶€í„° ë°±ì—…ì¤‘ ë˜ëŠ” ë°±ì—…ì™„ë£Œëœ íŒŒì¼ì˜ ì ‘ê·¼ì„ ì°¨ë‹¨í•©ë‹ˆë‹¤.
+* ë³¸ ì†ŒìŠ¤ì½”ë“œëŠ” phpë¡œ ë§Œë“¤ì–´ ì¡Œìœ¼ë©° phpê°€ ëŒì•„ê°€ëŠ” ì„œë²„ì—ì„œëŠ” ê±°ì˜ ëŒ€ë¶€ë¶„ ìž‘ë™í•˜ëŠ”ê²ƒì´ íŠ¹ì§•ìž…ë‹ˆë‹¤.(ì›¹í˜¸ìŠ¤íŒ…ì´ë“  ì„œë²„í˜¸ìŠ¤íŒ… ì´ë“  ê´€ê³„ì—†ì´ ìž‘ë™í•©ë‹ˆë‹¤.)
+* ì›ê²©ì§€ íŒŒì¼ ì—´ê¸° ì„¤ì • ë° ì‹œê°„ì œí•œ í•˜ê³  ì „í˜€ ê´€ê³„ì—†ì´ ìž‘ë™í•©ë‹ˆë‹¤.
 
-## »ç¿ë¹ý
-* ¹é¾÷ÇÒ °èÁ¤¿¡ maker Æú´õ¹× ÆÄÀÏ ¾÷·Îµå
-* ¹é¾÷ÇÑ ÆÄÀÏÀ» ¹ÞÀ» °èÁ¤¿¡ backup Æú´õ¹× ÆÄÀÏ ¾÷·Îµå
+## ì‚¬ìš©ë²•
+* ë°±ì—…í•  ê³„ì •ì— maker í´ë”ë° íŒŒì¼ ì—…ë¡œë“œ
+* ë°±ì—…í•œ íŒŒì¼ì„ ë°›ì„ ê³„ì •ì— backup í´ë”ë° íŒŒì¼ ì—…ë¡œë“œ
 
-### maker/index.php ¼öÁ¤
-* $DB_USER << phpmyadmin·Î±×ÀÎ½Ã »ç¿ëÇÏ´Â ¾ÆÀÌµð
-* $DB_PASS << phpmyadmin·Î±×ÀÎ½Ã »ç¿ëÇÏ´Â ºñ¹Ð¹øÈ£
-* $DB_NAME << phpmyadmin·Î±×ÀÎ½Ã »ç¿ëÇÏ´Â DB³×ÀÓ
+### maker/index.php ìˆ˜ì •
+* $DB_USER << phpmyadminë¡œê·¸ì¸ì‹œ ì‚¬ìš©í•˜ëŠ” ì•„ì´ë””
+* $DB_PASS << phpmyadminë¡œê·¸ì¸ì‹œ ì‚¬ìš©í•˜ëŠ” ë¹„ë°€ë²ˆí˜¸
+* $DB_NAME << phpmyadminë¡œê·¸ì¸ì‹œ ì‚¬ìš©í•˜ëŠ” DBë„¤ìž„
 
-### backup/index.php ¼öÁ¤
-* $address << http://makerÆú´õ°¡ÀÖ´Â ÁÖ¼Ò/marker/index.php (ex. http://domain.com/maker/index.php )
-* $ftp_server << maker°¡ ¾÷·Îµå µÇ¾îÀÖ´Â FTPÁÖ¼Ò
-* $ftp_user << maker°¡ ¾÷·Îµå µÇ¾îÀÖ´Â FTP¾ÆÀÌµð
-* $ftp_pass << maker°¡ ¾÷·Îµå µÇ¾îÀÖ´Â FTPºñ¹Ð¹øÈ£
-* $backdir << maker¾÷·Îµå°¡ µÇ¾îÀÖ´Â »ó´ëÀûÀ§Ä¡( ex. public_html/maker )
+### backup/index.php ìˆ˜ì •
+* $address << http://makerí´ë”ê°€ìžˆëŠ” ì£¼ì†Œ/marker/index.php (ex. http://domain.com/maker/index.php )
+* $ftp_server << makerê°€ ì—…ë¡œë“œ ë˜ì–´ìžˆëŠ” FTPì£¼ì†Œ
+* $ftp_user << makerê°€ ì—…ë¡œë“œ ë˜ì–´ìžˆëŠ” FTPì•„ì´ë””
+* $ftp_pass << makerê°€ ì—…ë¡œë“œ ë˜ì–´ìžˆëŠ” FTPë¹„ë°€ë²ˆí˜¸
+* $backdir << makerì—…ë¡œë“œê°€ ë˜ì–´ìžˆëŠ” ìƒëŒ€ì ìœ„ì¹˜( ex. public_html/maker )
+
+## ì§€ì›
+* ê³µì‹í™ˆíŽ˜ì´ì§€ : http://www.kmbfamily.net/software
+* ì¹´ì¹´ì˜¤í†¡ ë¬¸ì˜ : https://open.kakao.com/o/gYfBp3w
